@@ -1,0 +1,12 @@
+{
+  "voters": [{
+    "id": 0,
+    "firstName": "Ye",
+    "lastName": "Cao",
+    "address": "somewhere",
+    "city": "MTV",
+    "birthdate": "someday",
+    "email": "yc@intuit.com",
+    "phone": 1111111111
+  }]
+}
